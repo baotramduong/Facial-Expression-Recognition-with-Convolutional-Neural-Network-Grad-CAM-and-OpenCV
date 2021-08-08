@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition
+# Facial Expression Recognition with Keras CNN
 
 <img src = '../main/Data/index.png'>
 
