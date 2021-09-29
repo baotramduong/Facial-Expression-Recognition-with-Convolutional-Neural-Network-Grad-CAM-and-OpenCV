@@ -6,7 +6,19 @@
 
 ## Introduction
 
+We will build a Convolutional Neural Network to categorize the emotion shown in the facial expression in to one of seven categories: 0 = Angry, 1 = Disgust, 2 = Fear, 3 = Happy, 4 = Sad, 5 = Surprise, 6 = Neutral. 
+
+Grad-CAM will be used to identify what the machine is seeing when making decision.
+
+Once trained, the model will be deployed to a web interface using Flask to perform real-time facial expression recognition on video and image data.
+
 ## Data Source
+
+Data comes from Kaggle competition: Facial Expression Recognition Challenge (FER-2013). The train set consists of 28,709 examples of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. 
+
+* emotion column contains a numeric code ranging from 0-6.
+
+* pixels  column contains a string surrounded in quotes for each image.
 
 ## Exploratory Data Analysis
 
@@ -22,7 +34,7 @@
 
 **Accuracy & Loss Curves**
 
-<img src = '../main/Data/acc_loss_curvec.png'>
+<img src = '../main/Data/acc_loss_curve.png'>
 
 **Confusion Matrix**
 
