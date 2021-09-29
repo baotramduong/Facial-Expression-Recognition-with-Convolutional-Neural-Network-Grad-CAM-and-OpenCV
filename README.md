@@ -1,4 +1,4 @@
-# Facial Expression Recognition with Convolutional Neural Network and Grad-CAM Visualization
+# Facial Expression Recognition with Convolutional Neural Network and Visualization with Grad-CAM and OpenCV
 
 ## Blog
 
