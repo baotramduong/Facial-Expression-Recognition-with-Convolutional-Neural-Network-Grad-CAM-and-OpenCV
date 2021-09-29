@@ -1,5 +1,41 @@
-# Facial Expression Recognition with Keras CNN
+# Facial Expression Recognition with Convolutional Neural Network and Grad-CAM Visualization
 
-<img src = '../main/Data/index.png'>
+## Blog
 
-<img src = '../main/Data/loss_acc.png'>
+[Medium Blog]()
+
+## Introduction
+
+## Data Source
+
+## Exploratory Data Analysis
+
+<img src = '../main/Data/samples.png'>
+
+## Modeling
+
+### Model Architect
+
+<img src = '../main/Data/model_summary.png'>
+
+### Model Evaluation
+
+**Accuracy & Loss Curves**
+
+<img src = '../main/Data/acc_loss_curvec.png'>
+
+**Confusion Matrix**
+
+<img src = '../main/Data/cm.png'>
+
+**Classification Report**
+
+<img src = '../main/Data/classification_report.png'>
+
+## Grad-CAM
+
+<img src = '../main/Data/gradcam1.png'>
+
+<img src = '../main/Data/gradcam2.png'>
+
+## Reference
