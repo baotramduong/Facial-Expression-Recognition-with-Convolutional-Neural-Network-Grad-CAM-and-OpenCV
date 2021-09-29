@@ -10,7 +10,7 @@ We will build a Convolutional Neural Network to categorize the emotion shown in 
 
 Grad-CAM will be used to identify what the machine is seeing when making decision.
 
-Once trained, the model will be deployed to a web interface using Flask to perform real-time facial expression recognition, using the Haar Cascade method, on video and image data.
+Once trained, the model will be deployed to a web interface using Flask to perform real-time facial expression recognition, using the Haar Cascade method from OpenCV, on video and image data.
 
 ## Data Source
 
