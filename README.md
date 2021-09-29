@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/emotion-ai-facial-expression-recognition-with-convolutional-neural-network-and-visualization-with-fbfbc5a5819a)
 
 ## Introduction
 
