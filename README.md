@@ -4,6 +4,10 @@
 
 [Medium Blog](https://baotramduong.medium.com/emotion-ai-facial-expression-recognition-with-convolutional-neural-network-and-visualization-with-fbfbc5a5819a)
 
+## Kaggle Kernel
+
+[Kaggle kernel](https://www.kaggle.com/baotramduong/facial-expression-recognition-with-cnn-grad-cam)
+
 ## Introduction
 
 We will build a Convolutional Neural Network to categorize the emotion shown in the facial expression in to one of seven categories: 0 = Angry, 1 = Disgust, 2 = Fear, 3 = Happy, 4 = Sad, 5 = Surprise, 6 = Neutral. 
